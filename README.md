@@ -1,5 +1,12 @@
 To run
 
+fill the .env file with your credentials
+
+```
+EXPO_PUBLIC_INSTABUG_TOKEN=[your token here]
+EXPO_PUBLIC_LOGROCKET_APP_ID=[your id here]
+```
+
 you need eas-cli
 
 ```
