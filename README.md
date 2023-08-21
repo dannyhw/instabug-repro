@@ -30,3 +30,5 @@ yarn android
 ```
 
 To reproduce the bug spam the button "Press me" until it stops incrementing the counter and then requests no longer work
+
+You may need to re-run the app with `yarn ios` once before the bug starts happening
